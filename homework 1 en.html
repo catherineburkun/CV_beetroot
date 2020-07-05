@@ -30,7 +30,7 @@
             display: inline-block;
             text-align: right;
             vertical-align: top;
-            padding-left: 300px;
+            padding-left: 400px;
           "
         >
           <div style="margin-top: 30px;">
@@ -72,7 +72,7 @@
 
     <!-- Опыт работы -->
 
-    <div style="border: 2px solid black; margin-top: 5px; width: 900px;">
+    <div style="border: 2px solid black; margin-top: 5px; width: 1000px;">
       <div
         style="vertical-align: top; margin-left: 30px; padding-bottom: 10px;"
       >
