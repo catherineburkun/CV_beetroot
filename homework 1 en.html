@@ -7,7 +7,7 @@
 
   <body>
     <div class="wrapper">
-      <div style="border: 2px solid black; width: 900px;">
+      <div style="border: 2px solid black; width: 1000px;">
         <div
           style="
             display: inline-block;
@@ -33,7 +33,7 @@
             padding-left: 300px;
           "
         >
-          <div style="margin-top: 10px;">
+          <div style="margin-top: 30px;">
             <h2 class="profession">Junior Front-end Developer</h2>
             <h1 class="name">Katerina Burkun</h1>
 
